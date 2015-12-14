@@ -1,0 +1,1 @@
+../../../Parse/parse/internal/LocalDataStore/SQLite/PFSQLiteDatabaseResult.h

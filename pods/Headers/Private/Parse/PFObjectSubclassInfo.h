@@ -1,0 +1,1 @@
+../../../Parse/parse/internal/object/Subclassing/PFObjectSubclassInfo.h
